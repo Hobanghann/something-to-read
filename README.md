@@ -65,3 +65,5 @@
 - https://www.scratchapixel.com/index.html
 ##### LeranOpenGL
 - https://learnopengl.com/
+##### 3D Game Engine Programming
+- https://www.3dgep.com/
