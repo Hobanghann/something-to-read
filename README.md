@@ -39,6 +39,8 @@
 - https://refactoring.guru
 ##### Enum vs Enum Class in C++
 - https://agrawalsuneet.github.io/blogs/enum-vs-enum-class-in-c++/
+##### Reflection in C++
+- https://www.geeksforgeeks.org/cpp/reflection-in-cpp/
 
 ## 블로그
 ##### Joel on Software
