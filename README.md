@@ -41,6 +41,8 @@
 - https://agrawalsuneet.github.io/blogs/enum-vs-enum-class-in-c++/
 ##### Reflection in C++(RTTI)
 - https://www.geeksforgeeks.org/cpp/reflection-in-cpp/
+##### What kind of optimization does const offer in C/C++?
+- https://stackoverflow.com/questions/27466642/what-kind-of-optimization-does-const-offer-in-c-c
 
 ## 블로그
 ##### Joel on Software
